@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">Hi, everyone im sreuou, im 17 years old and I've been programming for 5 years. I explain myself on security <br>engineering and on C# UI/UX designs and we deal with Modern Websites</p>
+<p align="center">Hi, everyone i am sreuou, i am 17 years old and I've been programming for 5 years. I explain myself on security <br>engineering and on C# UI/UX designs and we deal with Modern Websites</p>
 
 ###
 

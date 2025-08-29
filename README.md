@@ -9,33 +9,6 @@
 
 ---
 
-## 🚀 Projects & Featured Repositories
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/sreuou"><b>ModernAuth</b></a><br/>
-      🔐 Sleek authentication UI with a focus on clean design and secure logic.
-    </td>
-    <td>
-      <a href="https://github.com/sreuou"><b>WebSec Toolkit</b></a><br/>
-      🛡️ Tools for web vulnerability scanning, subdomain recon, and automation.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/sreuou"><b>Custom Portfolio</b></a><br/>
-      🌐 My animated, responsive portfolio with modern JS and theme toggles.
-    </td>
-    <td>
-      <a href="https://github.com/sreuou"><b>Discord Bot Manager</b></a><br/>
-      🤖 Full dashboard-based moderation & ticket system for Discord.
-    </td>
-  </tr>
-</table>
-
----
-
 ## 💻 Tech Stack
 
 <p align="center">

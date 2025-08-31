@@ -4,7 +4,7 @@
 
 <h2 align="center">Hi there 👋 I'm <b>Sreuou</b></h2>
 <p align="center">
-  🧠 17 y.o. developer • 💻 7 years coding experience • 🔐 Security Engineering • 🎨 UI/UX/WPF C# • 🌐 Modern Websites & Next.js
+  🧠 17 y.o. developer • 💻 7 years coding experience • 🔐 Security Engineering/Reverse Engineering • 🎨 UI/UX/WPF C# • 🌐 Modern Websites & Next.js
 </p>
 
 ---

@@ -1,63 +1,83 @@
 <div align="center">
-  <img height="180" src="https://avatars.githubusercontent.com/u/184767411?s=400&u=fb25f7af2477956deef015ab44131cd8acffdd77&v=4" />
+  <img height="180" src="https://avatars.githubusercontent.com/u/184767411?s=400&v=4" />
 </div>
 
-<h2 align="center">Hi there 👋 I'm <b>Sreuou</b></h2>
+<h1 align="center">Sreuou</h1>
+
 <p align="center">
-  🧠 17 y.o. developer • 💻 7 years coding experience • 🔐 Security Engineering/Reverse Engineering • 🎨 UI/UX/WPF C# • 🌐 Modern Websites & Next.js
+  <b>Cybersecurity • Reverse Engineering • Offensive Security</b>
+</p>
+
+<p align="center">
+  🧠 18 y.o. Security-focused Developer <br/>
+  🔐 Red Team mindset • Malware Analysis • Exploit Research <br/>
+  ⚙️ Low-level systems • Windows internals <br/>
+  💻 8+ years coding experience
 </p>
 
 ---
 
-## 💻 Tech Stack
+## 🛡️ Security Focus
 
 <p align="center">
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe-F00?style=for-the-badge&logo=adobe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+  🔴 Offensive Security <br/>
+  🧩 Reverse Engineering & Deobfuscation <br/>
+  🧠 Malware Analysis & Detection Evasion <br/>
+  ⚔️ Web Security & Anti-Abuse Systems <br/>
+  🔍 OSINT & Attack Surface Analysis
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreuou&theme=radical&show_icons=true&hide_border=false"/>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,nodejs,dotnet,linux" />
+</p>
+
+---
+
+## 🧪 Current Work
+
+<p align="center">
+  🛠️ Advanced Secure Webhook Infrastructure (JWT, HMAC, Anti-Replay) <br/>
+  🛡️ Custom Anti-Bot / Anti-Abuse Systems <br/>
+  🔐 Obfuscation Techniques & Bypass Research <br/>
+  🧠 Reverse Engineering Experiments (Windows / Python)
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sreuou&theme=github_dark&show_icons=true&hide_border=true"/>
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sreuou&theme=radical&hide_border=false"/>
+  <img src="https://streak-stats.demolab.com?user=sreuou&theme=github-dark-blue&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreuou&layout=compact&theme=radical&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreuou&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🔝 Top Contributions
+## 🧠 Tools & Environments
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sreuou&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true"/>
+  <img src="https://skillicons.dev/icons?i=windows,linux,kali,git,vscode" />
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+## 🎯 Goals
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" title="C#"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" title="Arduino"/>
+  🏆 OSCP / Advanced Security Certifications <br/>
+  🔬 Deep dive into Windows Internals & Exploit Development <br/>
+  🛡️ Build high-end security systems & detection pipelines
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-  </a>
+  <i>"Think like an attacker. Build like a defender."</i>
 </p>
